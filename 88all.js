@@ -904,7 +904,7 @@
 
     // Tạo nút Tool 1
     const btn1 = document.createElement('button');
-    btn1.textContent = 'Tool 1: Tin nhắn hộp quà 1';
+    btn1.textContent = '88每小时';
     btn1.onclick = tool1;
     btn1.style.display = 'block'; // Make button a block element
     btn1.style.width = '100%'; // Full width
@@ -925,7 +925,7 @@
 
     // Tạo nút Tool 2
     const btn2 = document.createElement('button');
-    btn2.textContent = 'Tool 2: Tin nhắn push ngẫu nhiên';
+    btn2.textContent = '1-20推送';
     btn2.onclick = tool2;
     btn2.style.display = 'block';
     btn2.style.width = '100%';
@@ -946,7 +946,7 @@
 
     // Tạo nút Tool 3
     const btn3 = document.createElement('button');
-    btn3.textContent = 'Tool 3: SMS động & Cấu hình';
+    btn3.textContent = 'sms';
     btn3.onclick = tool3;
     btn3.style.display = 'block';
     btn3.style.width = '100%';
@@ -967,7 +967,7 @@
 
     // Tạo nút Tool 4
     const btn4 = document.createElement('button');
-    btn4.textContent = 'Tool 4: Tin nhắn mã quà tặng (mọi người)';
+    btn4.textContent = '站内信兑换码88';
     btn4.onclick = tool4;
     btn4.style.display = 'block';
     btn4.style.width = '100%';
@@ -988,7 +988,7 @@
 
     // Tạo nút Tool 5
     const btn5 = document.createElement('button');
-    btn5.textContent = 'Tool 5: Tin nhắn Push (ngẫu nhiên & VIP)';
+    btn5.textContent = 'code推送';
     btn5.onclick = tool5;
     btn5.style.display = 'block';
     btn5.style.width = '100%';
@@ -1009,7 +1009,7 @@
 
     // Tạo nút Tool 6
     const btn6 = document.createElement('button');
-    btn6.textContent = 'Tool 6: Tin nhắn hộp quà 2';
+    btn6.textContent = '1点mystery';
     btn6.onclick = tool6;
     btn6.style.display = 'block';
     btn6.style.width = '100%';
@@ -1048,4 +1048,5 @@
     // Thêm menu vào trang
     document.body.appendChild(menu);
   })();
+
 })();
